@@ -1,0 +1,11 @@
+package EX01_Variable;
+
+public class EX01_Variable {
+public static void main(String[] args) {
+	//int a , string b 같은 형태를 변수라고 함
+	//int <= 정수를 담아서 저장하기위한 변수타입
+	int a;
+	
+	System.out.println("LSJ10");
+}
+}

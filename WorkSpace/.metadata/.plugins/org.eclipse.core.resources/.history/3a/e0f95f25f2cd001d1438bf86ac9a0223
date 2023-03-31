@@ -1,0 +1,27 @@
+package test01_Varible;
+
+public class Lsj {
+
+	public static void main(String[] args) {
+		int a ;
+	        a = 10;
+	        
+	   int b = 20;
+		
+	   byte c;
+	   byte d = 40;
+	  
+	   float e = 1234567890F;
+	   double f = 12.5;
+		
+		
+		System.out.println(a);
+		System.out.println(b);
+		
+		System.out.println(d);
+		System.out.println(e);
+		System.out.println(f);
+		
+	}
+	
+}

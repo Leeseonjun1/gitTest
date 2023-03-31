@@ -1,0 +1,15 @@
+
+public class Test06 {
+public static void main(String[] args) {
+	
+ int subject1, subject2, subject3, subject4 , subject5;
+ subject1=10;
+ subject2=20;
+ subject3=30;
+ subject4=40;
+ subject5=50;
+ 
+ System.out.println(subject5);
+}
+	
+}

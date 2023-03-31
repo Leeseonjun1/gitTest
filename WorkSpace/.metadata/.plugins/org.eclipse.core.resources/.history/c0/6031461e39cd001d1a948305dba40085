@@ -1,0 +1,13 @@
+package EX01_Variable;
+
+public class Ex03_Variable {
+	public static void main(String[] args) {
+		// ctrl + shift + f == 줄정리
+		// ctrl + / (주석)
+		int value = 30;
+		int result = value + 10;
+		
+		
+	}
+
+}

@@ -1,0 +1,19 @@
+package pack08_casting;
+
+public class Ex02_Casting {
+public static void main(String[] args) {
+	
+	//문자열 ="12"+34 = 1234
+	//String + int = DataType String
+    //Why? 문자열 + 어떤값 = 문자열 규칙
+	// 문자열 결합의 법칙
+	
+	String sum = "12"+34;
+	//어떤 값을 String으로 바꾸는것은 엄청나게 간단하다.
+	System.out.println(sum);
+	String sum2 = "12+34";
+	System.out.println(sum2);
+	
+	
+}
+}

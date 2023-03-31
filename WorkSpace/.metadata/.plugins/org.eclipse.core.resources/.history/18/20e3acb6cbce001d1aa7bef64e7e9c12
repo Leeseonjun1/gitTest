@@ -1,0 +1,20 @@
+package pack09_scanner;
+
+import java.util.Scanner;
+
+public class Ex01_Scanner {
+public static void main(String[] args) {
+	// Scanner (입력)>> 자바 (출력)>>> 콘솔
+	Scanner sc = new Scanner(System.in);
+	// 외부에서 들어오는 데이터를 사용해보기위해서 외워서 사용 
+	System.out.println("대기할껀지?");
+	String inputData= sc.nextLine();
+	System.out.println(inputData);
+	System.out.println("여기까지왔는지");
+	System.out.println(inputData);
+	int a =Integer.parseInt(inputData);
+	System.out.println(a+10);
+	
+	
+}
+}

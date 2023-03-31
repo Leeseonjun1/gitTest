@@ -1,0 +1,23 @@
+package pack02_byte;
+
+public class Ex01_Byte {
+
+	public static void main(String[] args) {
+		// { } <= main 지역
+		// byte 타입의 변수를 선언해보기 varl
+		// byte 타입의 변수 varl에 값 0을 할당해보기.
+		// byte 타입의 변수 var2를 10을 주고 초기화 해보기.
+		
+	   byte var1;
+	   var1 = 0;
+	   byte var2 =10;
+	   System.out.println(var1);
+	   System.out.println(var2);
+			 
+			   
+		
+		
+	}
+	
+	
+}

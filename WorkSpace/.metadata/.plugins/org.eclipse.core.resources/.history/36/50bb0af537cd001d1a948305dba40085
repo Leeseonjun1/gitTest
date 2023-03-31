@@ -1,0 +1,12 @@
+package EX01_Variable;
+
+public class Ex03_Variable {
+	public static void main(String[] args) {
+	
+	int value;
+	int result= value + 10;
+	
+		
+	}
+
+}
